@@ -105,20 +105,6 @@
       "version": "2.1.1"
     },
     {
-      "name": "hxcpp",
-      "type": "git",
-      "dir": null,
-      "ref": "c6bac3d6c7d683f25104296b2f4c50f8c90b8349",
-      "url": "https://github.com/cortex-engine/hxcpp"
-    },
-    {
-      "name": "hxcpp-debug-server",
-      "type": "git",
-      "dir": "hxcpp-debug-server",
-      "ref": "147294123f983e35f50a966741474438069a7a8f",
-      "url": "https://github.com/FunkinCrew/hxcpp-debugger"
-    },
-    {
       "name": "hxdiscord_rpc",
       "type": "git",
       "dir": null,
@@ -227,6 +213,20 @@
       "dir": null,
       "ref": "bdb191fe7cf745c02a980749906dbf22719e200b",
       "url": "https://github.com/fponticelli/thx.semver"
+    },
+        {
+      "name": "hxcpp",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/cortex-engine/hxcpp"
+    },
+    {
+      "name": "hxcpp-debug-server",
+      "type": "git",
+      "dir": "hxcpp-debug-server",
+      "ref": "147294123f983e35f50a966741474438069a7a8f",
+      "url": "https://github.com/FunkinCrew/hxcpp-debugger"
     }
   ]
 }
